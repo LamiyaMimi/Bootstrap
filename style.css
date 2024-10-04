@@ -1,0 +1,44 @@
+
+
+.d-block{
+    height: 700px ;
+    width: 100%;
+}
+
+.img-fluid{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+}
+
+.Ready {
+    width: 1200px;
+    height: 100px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    margin-bottom: 60px;
+    margin-top: 90px;
+    background: #289BDE;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    padding: 79px;
+    box-sizing: border-box;
+}
+.fourth{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.last{
+    width: 321px;
+    height: 220px;
+    top: 6252px;
+    left: 640px;
+    gap: 0px;
+    opacity: 0px;
+    background: black;
+    margin: auto;
+}
